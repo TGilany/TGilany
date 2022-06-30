@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Tamir 👋</h1>
 
-<h3 align="center">Problem Solver | Techie</h3>
+<h3 align="center"><a href="https://medium.com/geekculture/the-enthusiast-developer-db882a8fbc3f#:~:text=The%20enthusiast%20developer%20derives%20significant,authority%20in%20their%20knowledge%20base">Enthusiast Developer</a> | Problem Solver | Techie</h3>
 
 &nbsp;
 
-- 💼 Currently I'm a Senior Fullstack Developer at [Snappy](https://www.snappy.com/)
+- 💼 Working as a Senior Fullstack Developer at [Snappy](https://www.snappy.com/)
 - 🎯 My goal is to make things look good, be fast and efficient while sustaining a robust scalable code base
 - 📫 You can reach me at &nbsp; [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flatl&logo=linkedin)](https://www.linkedin.com/in/tamirgilany/)
 
