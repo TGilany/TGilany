@@ -11,7 +11,9 @@
 
 &nbsp;
 
+<div align="center">
 <a href="https://stackexchange.com/users/6725554"><img src="https://stackexchange.com/users/flair/6725554.png?theme=dark" width="208" height="58" alt="profile for Tamir Gilany on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tamir Gilany on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</div>
 
 &nbsp;
 
